@@ -31,6 +31,7 @@ You are a junior GRC analyst at a small SaaS company preparing for its first SOC
 1. Risk description  
 2. Business impact  
 3. Example controls  
+
 **Constraints:**
 - Use simple, non-technical language  
 - Avoid framework jargon  
